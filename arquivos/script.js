@@ -1,3 +1,5 @@
+//branch Gustavo
+
 const clientesContainer = document.getElementById("clientesContainer");
 var formattedContent = ""; // Variável global para armazenar o conteúdo formatado
 var editor = document.getElementById("editor");
